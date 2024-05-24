@@ -1,0 +1,4 @@
+Control work.csproj
+obj/
+.gitignore
+bin/
